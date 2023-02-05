@@ -1,0 +1,8 @@
+- dibuat percen per region
+- cluster dibuat 4
+- encoding diperbaiki, ordinal atau numerik
+- beberapa fitur di drop
+- method 22 nya dimasukkan
+- ship mode tahun drop
+- season by year tidak usah ditampilkan
+- rekomendasi marketing strategi each cluster
