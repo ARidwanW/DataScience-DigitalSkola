@@ -1,0 +1,18 @@
+Row ID:ID number row
+Order ID:ID Order
+Order Date:Order Date
+Ship Date:Ship Date
+Ship mode:Ship mode
+Customer ID:Customer ID
+Customer Name:Customer Name
+Segment:Segment
+Country:Country
+City:City
+Product Name:Product Name
+Sales:Sales
+Sub-Categort:Sub-Categort
+Category:Category
+Product ID:Product ID
+Region:Region
+Postal Code:Postal Code
+State:State
